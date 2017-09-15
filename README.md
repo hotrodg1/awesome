@@ -1,0 +1,2 @@
+# awesome
+Only for game
